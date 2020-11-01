@@ -2,10 +2,15 @@
 ### Information of Project
 
 <b>Organization: </b>Cankaya University
+
 <b>Department: </b>Computer Engineering
+
 <b>Starting Term: </b>2020-2021
-<b>Title of Project: </b><h2>Design Parser for IOS & Android
+
+<b>Title of Project: </b>Design Parser for IOS & Android
+
 <b>Advisor: </b>Dr. Aydin KAYA
+
 <b>Team Members: </b>
  <ul>
   <li>Mustafa IPEK - <b>Computer Engineering</b></li>
@@ -23,14 +28,14 @@ Project aims to develop a kind of React Nativeish framework to help users with d
 ### [Project Workplan](https://docs.google.com/spreadsheets/d/1oIsodyseZd25tUpYZeeXcEEmPb4d0bXotD6vyyE_Pso/edit#gid=1819134849)
 
 ### Project Documents
-<ul>
-  ### [Project Description](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Project-Description)
+
+  Project Description](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Project-Description)
   <li>[Group Members](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Group-Members)</li>
   <li>[Project Workplan](https://docs.google.com/spreadsheets/d/1oIsodyseZd25tUpYZeeXcEEmPb4d0bXotD6vyyE_Pso/edit?pli=1#gid=1819134849)</li>
   <li>[Literature Review](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Literature-Review)</li>
   <li>[Software Requirements Specification (SRS)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Software-Requirements-Specification-(SRS))</li>
   <li>[Software Design Documentation (SDD)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Software-Design-Description-(SDD))</li>
-</ul> 
+
 
 ### Science Fields and Subfields
 <ul>
