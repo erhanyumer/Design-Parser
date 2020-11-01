@@ -29,12 +29,12 @@ Project aims to develop a kind of React Nativeish framework to help users with d
 
 ### Project Documents
 
-  Project Description](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Project-Description)
-  <li>[Group Members](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Group-Members)</li>
-  <li>[Project Workplan](https://docs.google.com/spreadsheets/d/1oIsodyseZd25tUpYZeeXcEEmPb4d0bXotD6vyyE_Pso/edit?pli=1#gid=1819134849)</li>
-  <li>[Literature Review](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Literature-Review)</li>
-  <li>[Software Requirements Specification (SRS)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Software-Requirements-Specification-(SRS))</li>
-  <li>[Software Design Documentation (SDD)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Software-Design-Description-(SDD))</li>
+  [Project Description](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Project-Description)
+  [Group Members](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Group-Members)
+  [Project Workplan](https://docs.google.com/spreadsheets/d/1oIsodyseZd25tUpYZeeXcEEmPb4d0bXotD6vyyE_Pso/edit?pli=1#gid=1819134849)
+  [Literature Review](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Literature-Review)
+  [Software Requirements Specification (SRS)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Software-Requirements-Specification-(SRS))
+  [Software Design Documentation (SDD)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Software-Design-Description-(SDD))
 
 
 ### Science Fields and Subfields
