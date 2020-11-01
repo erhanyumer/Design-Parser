@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+<head><title>Design Parser</title></head>
+### Information of Project
 
-You can use the [editor on GitHub](https://github.com/erhanyumer/designparser/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<b>Organization: </b><h2>Cankaya University</h2>
+<b>Department: </b><h2>Computer Engineering</h2>
+<b>Starting Term: </b><h2>2020-2021</h2>
+<b>Title of Project: </b><h2>Design Parser for IOS & Android</h2>
+<b>Advisor: </b><h2>Dr. Aydin KAYA</h2>
+<b>Team Members: </b>
+ <ul>
+  <li>Mustafa IPEK - <b>Computer Engineering</b></li>
+  <li>Vural Can SISMAN - <b>Computer Engineering</b></li>
+  <li>Erhan YUMER - <b>Computer Engineering</b></li>
+</ul> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Project Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Project aims to develop a kind of React Nativeish framework to help users with decreasing coding time significantly. We will make more responsive design which are not readily implemented in current available systems. In this project, we will create our very own markup language and parsing the given text and converting it to Android GUI or IOS GUI design code. Then, we will make the markup language suitable for Android or IOS platform. Finally, we can show the design we created at the screen responsively. We are going to build this application on Android Studio, XCode, Visual Studio Code and Java. Also we will use algorithms and techniques belongs to data structures, visual design and code evaluation.
 
-```markdown
-Syntax highlighted code block
+[Project GitHub Page](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android)
 
-# Header 1
-## Header 2
-### Header 3
+### [Project Workplan](https://docs.google.com/spreadsheets/d/1oIsodyseZd25tUpYZeeXcEEmPb4d0bXotD6vyyE_Pso/edit#gid=1819134849)
 
-- Bulleted
-- List
+### Project Documents
+<ul>
+  <li>[Project Description](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Project-Description)</li>
+  <li>[Group Members](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Group-Members)</li>
+  <li>[Project Workplan](https://docs.google.com/spreadsheets/d/1oIsodyseZd25tUpYZeeXcEEmPb4d0bXotD6vyyE_Pso/edit?pli=1#gid=1819134849)</li>
+  <li>[Literature Review](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Literature-Review)</li>
+  <li>[Software Requirements Specification (SRS)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Software-Requirements-Specification-(SRS))</li>
+  <li>[Software Design Documentation (SDD)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Software-Design-Description-(SDD))</li>
+</ul> 
 
-1. Numbered
-2. List
+### Science Fields and Subfields
+<ul>
+  <li>Data Structures</li>
+  <li>Visual Design</li>
+  <li>Code Evaluation</li>
+</ul>
 
-**Bold** and _Italic_ and `Code` text
+### Built With
+<ul>
+  <li>Java</li>
+</ul>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erhanyumer/designparser/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Tools
+<ul>
+  <li>Android</li>
+  <li>Eclipse</li>
+  <li>Visual Studio Code</li>
+  <li>XCode</li>
+</ul> 
