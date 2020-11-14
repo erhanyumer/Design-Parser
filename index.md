@@ -56,7 +56,7 @@ Project aims to develop a kind of React Nativeish framework to help users with d
 
 ### Tools
 <ul>
-  <li>Android</li>
+  <li>Android Studio</li>
   <li>Eclipse</li>
   <li>Visual Studio Code</li>
   <li>XCode</li>
