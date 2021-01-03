@@ -41,7 +41,7 @@ Project aims to develop a kind of React Nativeish framework to help users with d
   
   [Software Design Documentation (SDD)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/wiki/Software-Design-Description-(SDD))
   
-  [Project Report](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/blob/main/Design_Parser_Project_Report_Reviewed.pdf)
+  [Project Report](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Design-Parser-for-IOS-and-Android/blob/main/Documents/Design_Parser_Project_Report_Reviewed%20(1).pdf)
 
 
 ### Science Fields and Subfields
