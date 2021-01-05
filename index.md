@@ -62,4 +62,5 @@ Project aims to develop a kind of React Nativeish framework to help users with d
   <li>Eclipse</li>
   <li>Visual Studio Code</li>
   <li>XCode</li>
+  <li>Node.js (Optional)</li>
 </ul> 
