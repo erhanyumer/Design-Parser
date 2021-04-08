@@ -54,6 +54,7 @@ Project aims to develop a kind of React Nativeish framework to help users with d
 ### Built With
 <ul>
   <li>Java</li>
+  <li>Maven Library</li>
 </ul>
 
 ### Tools
